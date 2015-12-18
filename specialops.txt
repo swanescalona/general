@@ -1,5 +1,0 @@
-﻿textos=No siempre nuestras necesidades son estándares, en más de una ocasión la solución óptima requiere sistemas alternativos que pueden limitar nuestras opciones de mantenimiento y/o desarrollo.
-
- Por eso el departamento de Operaciones Especiales se encarga de estar al tanto en tecnologías alternativas, Palm OS, Linux, C, Oracle, etc. 
-
-Lo invitamos a contactar con nosotros, tenemos la solución que usted busca.
